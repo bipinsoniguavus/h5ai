@@ -319,8 +319,8 @@
     */
     "select": {
         "enabled": true,
-        "clickndrag": true,
-        "checkboxes": true
+        "clickndrag": false,
+        "checkboxes": false
     },
 
     /*
